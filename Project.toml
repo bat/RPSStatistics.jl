@@ -1,0 +1,8 @@
+name = "RPSStatistics"
+uuid = "ad78a967-2a70-4d37-a98a-1c7b2132c810"
+version = "0.1.0"
+
+[deps]
+
+[compat]
+julia = "1.6"
